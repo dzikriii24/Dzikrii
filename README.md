@@ -36,8 +36,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git" />
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux" />
 
 </div>
 
