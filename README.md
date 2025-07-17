@@ -5,7 +5,9 @@
 </p>
 
 ---
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=dzikriii24.dzikriii24&"  />
+</div
 ## 🚀 About Me
 
 🎓 Undergraduate in **Informatics Engineering**  
@@ -77,7 +79,11 @@
 > _Keep building. Keep shipping. Keep growing._ 🚀
 
 ---
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/dzikriii24/dzikriii24/output/pacman-contribution-graph.svg">
+</picture>
 <!-- Footer note -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=100&section=footer"/>
